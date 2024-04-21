@@ -4,7 +4,7 @@ This repo is an archive of [hustmirror-cli](https://github.com/hust-open-atom-cl
 Packages of new formats are welcome.
 
 ### TODO:
-* [ ] rpm
+* [x] rpm
 * [ ] tar
 ***
 
